@@ -1,6 +1,8 @@
 
 Decoders
 
+source of data:  www.kaggle.com
+
 ##Data set is small but has 33 attributes. 
 
 Assignment is to create a model to classify if return is good or bad. Please provide for exploratory data exploration,and model and metrics.
